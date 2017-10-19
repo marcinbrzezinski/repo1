@@ -9,5 +9,5 @@ Zmiana czwarta, po połączeniu z bithub.
 
 Edycja pliku po wykonaniu polecenia 'git pull https://github.com/marcinbrzezinski/repo1.git' na nowej maszynie w sali 304
 
-
+Konfiguracja na własnym systemie
 
