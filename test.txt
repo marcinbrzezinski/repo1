@@ -1,1 +1,3 @@
-Tekt testowy
+Tekst testowy
+
+Dodano nowe wartości
