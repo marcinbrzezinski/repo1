@@ -1,6 +1,8 @@
+
 Tekst testowy
 
 Dodano nowe wartości
 
 Kolejna trzecia zmiana
 
+Zmiana czwarta, po połączeniu z bithub.
