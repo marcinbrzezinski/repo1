@@ -1,3 +1,6 @@
 Tekst testowy
 
 Dodano nowe wartości
+
+Kolejna trzecia zmiana
+
