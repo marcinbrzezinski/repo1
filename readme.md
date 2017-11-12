@@ -4,21 +4,21 @@ Jak zacząć projekt?
 Inicjowanie GITa w folderze lokalnym
 -------------------------------------
 
-###Instalacja GITa w systemie Linux
+### Instalacja GITa w systemie Linux
 
 Instalacji programu GIT dokonuje się poprzez polecenie w konsoli: `sudo apt install git` 
 
-###Tworzenie folderu
+### Tworzenie folderu
 
 W terminalu przejdź do wybranej lokalizacji i wpisz polecenie `mkdir repo1` a następnie `cd repo1`
 
 >Lista dostępnych komend dostępna jest pod poleceniem `git help`
   
-###Pierwszy plik
+### Pierwszy plik
 
 Aby utworzyć plik testowy w konsoli wpisz komendę `touch test.txt` lub `> test.txt`
 
-###Inicjowanie GITa
+### Inicjowanie GITa
 
 1. Wykonaj polecenie `git init`
 2. Przy użyciu polecenia `ls -la` dokonaj sprawdzenia czy został utworzony katalog `.git` 
@@ -27,7 +27,7 @@ Aby utworzyć plik testowy w konsoli wpisz komendę `touch test.txt` lub `> test
 Konfigurowanie GITa
 -------------------
 
-###Konfigurowanie połączenia z [github.com](https://github.com "GitHub"
+### Konfigurowanie połączenia z [github.com](https://github.com "GitHub"
   103  git status
   104  git add test.txt
   105  git status
