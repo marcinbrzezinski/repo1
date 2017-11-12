@@ -31,7 +31,7 @@ Konfigurowanie GITa
 
 #### Za pierwszym razem wymagane jest podanie danych do zdalnego repozytorium Git'a. 
 1. W tym celu użyj komendy:`git config --global user.email "adres@email.com"` podając adres email do konta na *github.com*
-2. Następnie podaj nazwę użytkownika z *github.com*: `git config --global user.name "nazwa_urzytkownika"`
+2. Następnie podaj nazwę użytkownika z *github.com*: `git config --global user.name "nazwa_użytkownika"`
 
 Praca z wykorzystaniem GITa
 ----------------------------
@@ -44,7 +44,7 @@ Aby sprawdzić zmodyfikowane pliki użyj polecenia: `git status`
 
 1. Dodanie pliku do repozytorium odbywa się za pomocą polecenia: `git add "nazwa_pliku"` lub aby dodać wszystkie zmodyfikowanie pliki `git add .`
 2. Następnie dodaj komentarz do wprowadzonych zmian: `git commit -m "Komentarz"`
-3. Historię wprowadzonych zmian wyświetlis dzięki poleceniu: `git log`
+3. Historię wprowadzonych zmian wyświetlisz dzięki poleceniu: `git log`
 
 ### Wysyłanie plików na serwer
 
